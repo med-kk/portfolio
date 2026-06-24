@@ -59,7 +59,7 @@ export default function Profile() {
 
             {/* Bio */}
             <p className="text-sm text-muted-foreground leading-relaxed text-center md:text-left">
-              山口大学知能情報工学科3年．本校には大分工業高等専門学校情報工学科から編入した．高専ではバレーボール部で部長を務め，ボーカルとしてバンド活動も行っていた．情報工学分野では，VRやUI/UXデザイン，人とコンピュータの関わりに興味を持っている．現在は語学学習に加え，Next.jsやTypeScriptを用いたフロントエンド開発や、Git・GitHubを用いた開発フローの学習に取り組んでいる．
+              山口大学工学部知能情報工学科3年．本校には大分工業高等専門学校情報工学科から編入した．高専ではバレーボール部で部長を務め，ボーカルとしてバンド活動も行っていた．情報工学分野では，VRやUI/UXデザイン，人とコンピュータの関わりに興味を持っている．現在は語学学習に加え，Next.jsやTypeScriptを用いたフロントエンド開発や、Git・GitHubを用いた開発フローの学習に取り組んでいる．
             </p>
           </div>
 
