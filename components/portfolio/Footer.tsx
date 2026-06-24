@@ -2,7 +2,7 @@ import { Mail, Link } from "lucide-react"
 
 const socialLinks = [
   { icon: Link, label: "GitHub", href: "https://github.com/med-kk" }, 
-  { icon: Mail, label: "Email", href: "koki.maeda0728@gmail.com" },             
+  { icon: Mail, label: "Email", href: "mailto:koki.maeda0728@gmail.com" },             
 ]
 
 export default function Footer() {
